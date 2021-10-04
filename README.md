@@ -2,4 +2,4 @@
 
 > A nice app for primary grade students to prep for basic math calculations. It has practice questions for the topics: Addition, Subtraction, Division and Multiplication.
 
-- Link to check this out: 
+- Link to check this out: https://monishka11.github.io/mathFor2ndGraders/index.html
